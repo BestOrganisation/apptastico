@@ -25,12 +25,12 @@ html {
  */
 
 ::-moz-selection {
-    background: #b3d4fc;
+    background: #F6270D;
     text-shadow: none;
 }
 
 ::selection {
-    background: #b3d4fc;
+    background: #F6270D;
     text-shadow: none;
 }
 
@@ -98,7 +98,7 @@ textarea {
 /* header styles */
 
 html {
-    background: rgb(82, 98, 110) url(../img/bg.png);
+    background: #F6270D url(../img/bg.png);
 
 }
 
@@ -116,14 +116,14 @@ h1 {
 }
 
 h3 {
-    color: #4b5a65;
+    color: #F6270D;
     margin-top: 0px;
 }
 
 h4 {
     margin-top: 0px;
     margin-bottom: 0px;
-    color: #4b5a65;
+    color: #F6270D;
 }
 
 .container {
@@ -143,7 +143,7 @@ h4 {
     margin-right: 30px;
     width: 306px; /* base width / 3 */
 
-    background: white;
+    background: #F6270D;
     float: left;
 }
 
